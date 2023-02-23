@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/bc5g15/learning-pages/issues"
   },
-  "homepage": "https://github.com/bc5g15/learning-pages#readme"
+  "homepage": "https://github.com/bc5g15/learning-pages#readme",
+  "devDependencies": {
+    "rollup": "^3.17.2"
+  }
 }
