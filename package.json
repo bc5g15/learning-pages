@@ -1,0 +1,21 @@
+{
+  "name": "learning-pages",
+  "version": "1.0.0",
+  "description": "Me trying to figure out how GitHub pages deployment works",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bc5g15/learning-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bc5g15/learning-pages/issues"
+  },
+  "homepage": "https://github.com/bc5g15/learning-pages#readme"
+}
